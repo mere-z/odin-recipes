@@ -1,3 +1,3 @@
 a super basic recipe website...
 
-The website can be found here:
+The website can be found here: https://mere-z.github.io/odin-recipes/
